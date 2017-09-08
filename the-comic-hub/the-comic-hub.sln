@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheComicHub.Web", "ComicHub
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheComicHub.Web.Tests", "TheComicHub.Web.Tests\TheComicHub.Web.Tests.csproj", "{1AE4C059-8A4F-4E90-9880-779500737A1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheComicHub.Data", "TheComicHub.Data\TheComicHub.Data.csproj", "{B711D84A-58FB-43BE-B9D8-D9C1F444820A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1AE4C059-8A4F-4E90-9880-779500737A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AE4C059-8A4F-4E90-9880-779500737A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AE4C059-8A4F-4E90-9880-779500737A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B711D84A-58FB-43BE-B9D8-D9C1F444820A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B711D84A-58FB-43BE-B9D8-D9C1F444820A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B711D84A-58FB-43BE-B9D8-D9C1F444820A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B711D84A-58FB-43BE-B9D8-D9C1F444820A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
