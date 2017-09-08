@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace ComicHub.Web
+namespace TheComicHub.Web
 {
     public class BundleConfig
     {

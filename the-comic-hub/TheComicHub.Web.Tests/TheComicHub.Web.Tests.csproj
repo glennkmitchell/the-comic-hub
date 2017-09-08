@@ -91,9 +91,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ComicHub.Web\ComicHub.Web.csproj">
+    <ProjectReference Include="..\ComicHub.Web\TheComicHub.Web.csproj">
       <Project>{B8BA7E9C-A271-4818-B1C8-FBA500AA1478}</Project>
-      <Name>ComicHub.Web</Name>
+      <Name>TheComicHub.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

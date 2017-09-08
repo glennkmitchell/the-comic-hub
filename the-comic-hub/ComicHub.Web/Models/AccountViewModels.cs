@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace ComicHub.Web.Models
+namespace TheComicHub.Web.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

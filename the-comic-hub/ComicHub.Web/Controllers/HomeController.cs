@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ComicHub.Web.Controllers
+namespace TheComicHub.Web.Controllers
 {
     public class HomeController : Controller
     {

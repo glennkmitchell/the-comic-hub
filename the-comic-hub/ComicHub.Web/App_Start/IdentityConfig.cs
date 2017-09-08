@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using ComicHub.Web.Models;
+using TheComicHub.Web.Models;
 
-namespace ComicHub.Web
+namespace TheComicHub.Web
 {
     public class EmailService : IIdentityMessageService
     {

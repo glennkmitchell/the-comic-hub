@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ComicHub.Web;
-using ComicHub.Web.Controllers;
+using TheComicHub.Web;
+using TheComicHub.Web.Controllers;
 
 namespace TheComicHub.Web.Tests.Controllers
 {

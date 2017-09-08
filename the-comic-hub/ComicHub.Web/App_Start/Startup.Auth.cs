@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using ComicHub.Web.Models;
+using TheComicHub.Web.Models;
 
-namespace ComicHub.Web
+namespace TheComicHub.Web
 {
     public partial class Startup
     {

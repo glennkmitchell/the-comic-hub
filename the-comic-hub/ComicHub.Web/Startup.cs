@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(ComicHub.Web.Startup))]
-namespace ComicHub.Web
+[assembly: OwinStartupAttribute(typeof(TheComicHub.Web.Startup))]
+namespace TheComicHub.Web
 {
     public partial class Startup
     {

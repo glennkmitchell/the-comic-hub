@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicHub.Web", "ComicHub.Web\ComicHub.Web.csproj", "{B8BA7E9C-A271-4818-B1C8-FBA500AA1478}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheComicHub.Web", "ComicHub.Web\TheComicHub.Web.csproj", "{B8BA7E9C-A271-4818-B1C8-FBA500AA1478}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheComicHub.Web.Tests", "TheComicHub.Web.Tests\TheComicHub.Web.Tests.csproj", "{1AE4C059-8A4F-4E90-9880-779500737A1C}"
 EndProject
